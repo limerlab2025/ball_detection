@@ -1,0 +1,3 @@
+numpy
+opencv-python
+# pyorbbecsdk: install from https://github.com/orbbec/pyorbbecsdk
