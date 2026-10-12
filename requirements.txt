@@ -1,3 +1,3 @@
 numpy
 opencv-python
-# pyorbbecsdk: install from https://github.com/orbbec/pyorbbecsdk
+# Orbbec depth camera (main.py) only: pip install pyorbbecsdk2
